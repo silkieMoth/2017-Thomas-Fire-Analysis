@@ -51,3 +51,18 @@ The data needed for this analysis is not stored in the repository. The datasets 
 
 - `California_Fire_Perimeters_(1950+)` can be downloaded from [California Natural Resources agency](https://gis.data.cnra.ca.gov/datasets/CALFIRE-Forestry::california-fire-perimeters-1950-1/explore) website.
 - `landsat8-2018-01-26-sb-simplified` is a pre-processed file and the only way to access it is through University of California, Santa Barbara's Posit Workbench server. However, a similar Landsat image of Santa Barbara can be downloaded from the [Microsoft Planetary Computer](https://planetarycomputer.microsoft.com/dataset/landsat-c2-l2) data catalogue.
+
+## Acklowledgements
+
+### This project is supported in part by:
+- EDS 220 Environmental Datasets at UCSB: [Website](https://meds-eds-220.github.io/MEDS-eds-220-course/)
+- UCSB Bren School for Environmental Science and Management: [Website](https://bren.ucsb.edu/)
+- The Master of Environmental Data Science degree at Bren: [Website](https://bren.ucsb.edu/masters-programs/master-environmental-data-science)
+- National Center for Ecological Analysis and Synthesis (NCEAS): [Website](https://www.nceas.ucsb.edu/)
+- Sam Csik: [Website](https://samanthacsik.github.io/)
+
+### Data Citations
+
+Earth Resources Observation and Science (EROS) Center. (2020). Landsat 8-9 Operational Land Imager / Thermal Infrared Sensor Level-2, Collection 2 [dataset]. U.S. Geological Survey. [link](https://planetarycomputer.microsoft.com/dataset/landsat-c2-l2)
+
+California Department of Forestry and Fire Protection (2024), California Historical Fire Perimeters [dataset]. California Natural Resources Agency.[link](https://gis.data.cnra.ca.gov/maps/CALFIRE-Forestry::california-historical-fire-perimeters/about)
